@@ -1,6 +1,6 @@
-Date,Time,Animal,Count
-2011-04-22,16:20,Owl,14
-2011-04-22,10:08,Fox,4
-2011-04-23,06:29,Muskox,31
-2011-04-23,21:11,Owl,20
-2011-04-23,07:41,Muskox,20
+,Animal,Count
+0,Owl,14
+1,Fox,4
+2,Muskox,31
+3,Owl,20
+4,Muskox,20
